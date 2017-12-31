@@ -11,6 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH.HelloWorld.Web", "CH.Hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH.HelloWorld.Tests", "CH.HelloWorld.Tests\CH.HelloWorld.Tests.csproj", "{EC7913B0-4374-48D3-82E5-50F214A9F6F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH.HelloWorld.Common", "CH.HelloWorld.Common\CH.HelloWorld.Common.csproj", "{56FF15D7-E01C-47F0-9F33-B65CD7A857A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9455B1C-28A6-45A6-A006-5F42543C4BF6}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +40,10 @@ Global
 		{EC7913B0-4374-48D3-82E5-50F214A9F6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC7913B0-4374-48D3-82E5-50F214A9F6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC7913B0-4374-48D3-82E5-50F214A9F6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FF15D7-E01C-47F0-9F33-B65CD7A857A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FF15D7-E01C-47F0-9F33-B65CD7A857A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FF15D7-E01C-47F0-9F33-B65CD7A857A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FF15D7-E01C-47F0-9F33-B65CD7A857A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
